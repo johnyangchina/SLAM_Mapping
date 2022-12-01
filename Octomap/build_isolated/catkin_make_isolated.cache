@@ -1,0 +1,2 @@
+octomap-devel/dynamicEDT3D:octomap-devel/octomap:octomap-devel/octovis
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/john/Octomap/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/john/Octomap/install_isolated

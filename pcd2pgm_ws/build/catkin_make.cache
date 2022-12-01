@@ -1,0 +1,2 @@
+pcd2pgm/pcd2pgm
+-DCATKIN_DEVEL_PREFIX=/home/john/pcd2pgm_ws/devel -DCMAKE_INSTALL_PREFIX=/home/john/pcd2pgm_ws/install -G Unix Makefiles

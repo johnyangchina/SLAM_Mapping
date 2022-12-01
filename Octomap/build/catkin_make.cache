@@ -1,0 +1,2 @@
+octomap-devel/dynamicEDT3D:octomap-devel/octomap:octomap-devel/octovis
+-DCATKIN_DEVEL_PREFIX=/home/john/Octomap/devel -DCMAKE_INSTALL_PREFIX=/home/john/Octomap/install -G Unix Makefiles

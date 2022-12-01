@@ -1,0 +1,8 @@
+prefix=/home/john/pcd2pgm_ws/devel
+
+Name: pcd2pgm
+Description: Description of pcd2pgm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

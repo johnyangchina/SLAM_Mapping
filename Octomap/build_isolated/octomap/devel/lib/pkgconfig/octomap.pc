@@ -1,0 +1,10 @@
+prefix=/home/john/Octomap/devel_isolated/octomap
+libdir=/home/john/Octomap/devel_isolated/octomap/lib
+includedir=/home/john/Octomap/devel_isolated/octomap/include
+
+Name: octomap
+Description: octomap
+Requires: 
+Version: 1.9.8
+Libs: -L${libdir}  -loctomap -loctomath
+Cflags: -I${includedir} 

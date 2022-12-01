@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/john/Octomap/src/octomap-devel/octomap/lib/liboctomath.a  CMakeFiles/octomath-static.dir/Vector3.cpp.o CMakeFiles/octomath-static.dir/Quaternion.cpp.o CMakeFiles/octomath-static.dir/Pose6D.cpp.o
+/usr/bin/ranlib /home/john/Octomap/src/octomap-devel/octomap/lib/liboctomath.a

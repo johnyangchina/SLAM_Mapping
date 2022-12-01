@@ -1,0 +1,2 @@
+teb_local_planner
+-DCATKIN_WHITELIST_PACKAGES=teb_local_planner -DCATKIN_DEVEL_PREFIX=/home/john/teb_ws/devel -DCMAKE_INSTALL_PREFIX=/home/john/teb_ws/install -G Unix Makefiles

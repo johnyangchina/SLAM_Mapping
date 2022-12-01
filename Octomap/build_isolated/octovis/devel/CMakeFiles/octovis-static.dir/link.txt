@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/john/Octomap/src/octomap-devel/octovis/lib/liboctovis.a  CMakeFiles/octovis-static.dir/src/SceneObject.cpp.o CMakeFiles/octovis-static.dir/src/PointcloudDrawer.cpp.o CMakeFiles/octovis-static.dir/src/OcTreeDrawer.cpp.o CMakeFiles/octovis-static.dir/src/SelectionBox.cpp.o CMakeFiles/octovis-static.dir/src/TrajectoryDrawer.cpp.o CMakeFiles/octovis-static.dir/src/ColorOcTreeDrawer.cpp.o
+/usr/bin/ranlib /home/john/Octomap/src/octomap-devel/octovis/lib/liboctovis.a

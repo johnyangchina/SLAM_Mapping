@@ -1,0 +1,10 @@
+prefix=/home/john/Octomap/devel_isolated/dynamic_edt_3d
+libdir=/home/john/Octomap/devel_isolated/dynamic_edt_3d/lib
+includedir=/home/john/Octomap/devel_isolated/dynamic_edt_3d/include
+
+Name: dynamicEDT3D
+Description: dynamicEDT3D
+Requires: 
+Version: 1.9.8
+Libs: -L${libdir}  -ldynamicEDT3D
+Cflags: -I${includedir} 
